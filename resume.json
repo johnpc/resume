@@ -1,0 +1,20 @@
+{
+  "basics": {
+    "name": "John Corser",
+    "label": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [],
+  "education": [],
+  "skills": [],
+  "projects": []
+}
