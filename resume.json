@@ -1,20 +1,72 @@
 {
   "basics": {
     "name": "John Corser",
-    "label": "",
-    "email": "",
-    "phone": "",
-    "url": "",
-    "summary": "",
+    "label": "Software Development Engineer III",
+    "image": "https://files.jpc.io/d/PThfe-IMG_7453.jpeg",
+    "email": "john@johncorser.com",
+    "phone": "(989) 598-7705",
+    "url": "https://www.johncorser.com",
+    "summary": "Senior SDE (L6) at AWS building AI-powered DevOps tools. 6+ years at Amazon developing cloud services, builder tools, and leading engineering initiatives.",
     "location": {
-      "city": "",
-      "countryCode": "US",
-      "region": ""
+      "city": "Ann Arbor",
+      "region": "MI"
     },
     "profiles": []
   },
-  "work": [],
-  "education": [],
-  "skills": [],
-  "projects": []
+  "work": [
+    {
+      "company": "AWS",
+      "position": "Software Development Engineer III",
+      "location": "Remote",
+      "startDate": "2023-01",
+      "endDate": "",
+      "summary": "Building AWS DevOps Agent, an AI oncall and DevOps agentic product launched at Re:Invent 2025. Automatic response to tickets/alarms, investigating compute resource health and logs, and 3rd party MCP to identify root cause and mitigation strategy. Reference (SDM): dubashia@amazon.com",
+      "highlights": []
+    },
+    {
+      "company": "AWS",
+      "position": "Software Development Engineer II",
+      "location": "Remote",
+      "startDate": "2021-01",
+      "endDate": "2023-01",
+      "summary": "Developed AWS Amplify service including open-source CLI tools and closed-source CI/CD products for full-stack mobile and web applications on AWS. Launched at Re:Invent 2023. Reference (SDM): mujuluru@amazon.com",
+      "highlights": []
+    },
+    {
+      "company": "Amazon",
+      "position": "Software Development Engineer II",
+      "location": "Detroit, MI",
+      "startDate": "2019-08",
+      "endDate": "2021-01",
+      "summary": "Built Amazon Seller Central builder tools and UI component libraries. Developed internal tooling and design systems for seller-facing applications. Reference (SDM): asardone@amazon.com",
+      "highlights": []
+    },
+    {
+      "company": "Trove",
+      "position": "Senior Software Engineer",
+      "location": "Ann Arbor, MI",
+      "startDate": "2014-12",
+      "endDate": "2019-08",
+      "summary": "Led engineering team focused on backend APIs and cloud services for intelligent email clients (web/ios/android). Grew platform from pre-release to 200,000+ users. Reference (CTO): iankberry@gmail.com",
+      "highlights": []
+    },
+    {
+      "company": "Cribspot",
+      "position": "Software Engineer",
+      "location": "Ann Arbor, MI",
+      "startDate": "2013-05",
+      "endDate": "2014-12",
+      "summary": "College Startup. Developed data analysis algorithms for housing search engine. Acquired by ApartmentList in 2018.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "area": "Electrical Engineering, Minor in Economics",
+      "studyType": "BSE",
+      "startDate": "2010-09",
+      "endDate": "2014-12"
+    }
+  ]
 }

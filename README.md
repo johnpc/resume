@@ -2,25 +2,26 @@
 
 My resume built with [JSON Resume](https://jsonresume.org/)
 
+[📄 Download PDF](generated/resume.pdf)
+
+![Resume Preview](generated/resume.png)
+
 ## Setup
 
 ```bash
-npm install -g resume-cli
+npm install
 ```
 
 ## Build
 
 ```bash
-resume export resume.pdf --theme elegant
+npm run build
 ```
 
-## Available themes
+## Preview
 
-- elegant
-- kendall
-- stackoverflow
-- flat
-- short
-- modern
+```bash
+npm run serve
+```
 
-Try different themes: `resume export resume.pdf --theme <theme-name>`
+Then open http://localhost:4000

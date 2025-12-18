@@ -1,0 +1,25 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "My resume built with JSON Resume",
+  "scripts": {
+    "build": "./build.sh",
+    "serve": "resume serve",
+    "validate": "node validate-length.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnpc/resume.git"
+  },
+  "author": "John Corser",
+  "license": "MIT",
+  "devDependencies": {
+    "resume-cli": "^3.0.8"
+  },
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.16.1",
+    "jsonresume-theme-flat": "^0.3.7",
+    "jsonresume-theme-short": "^0.1.7",
+    "jsonresume-theme-stackoverflow": "^2.1.0"
+  }
+}
